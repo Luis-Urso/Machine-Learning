@@ -1,5 +1,5 @@
 ## Numpy Studies
-## by Luis Urso
+## by Luis Urso - 8 - Set - 2022
 
 import numpy as np
 
